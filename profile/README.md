@@ -18,7 +18,7 @@
 
 <!-- Dynamic Typing Tagline -->
 <a href="https://github.com/Android-Community-MUST">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&multiline=false&width=620&height=45&lines=KDroiders+(Kotlin)+🤝+FDroiders+(Flutter);Parallel+project+builds+under+Innovators+Club;Crushing+Hackathons+and+Campus+Hacknights+🌙;From+MUST+labs+straight+to+the+Play+Store+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&multiline=false&width=620&height=45&lines=KDroiders+%28Kotlin%29+%F0%9F%A4%9D+FDroiders+%28Flutter%29%3BParallel+project+builds+under+Innovators+Club%3BCrushing+Hackathons+and+Campus+Hacknights+%F0%9F%8C%99%3BFrom+MUST+labs+straight+to+the+Play+Store+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -41,7 +41,7 @@ We bring together mobile engineers, designers, and innovators divided into two s
    │        🤖 KDroiders Clan              🐦 FDroiders Clan     │
    │     Native Kotlin & Compose         Cross-Platform Flutter  │
    │                                                             │
-   │          ⚔️ Parallel Builds  •  🌙 Hacknights  •  🏆 Hackathons │
+   │      ⚔️ Parallel Builds  •  🌙 Hacknights  •  🏆 Hackathons │
    └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -137,7 +137,7 @@ We do not just write code during lectures, we live for the thrill of building un
     <td width="35%" align="center">
       <img src="https://img.shields.io/badge/HustleHub-Campus%20SuperApp-success?style=for-the-badge&logo=android" alt="HustleHub"/>
       <br/><br/>
-      <code>Built with ❤️ by KDroiders & FDroiders</code>
+      <code>Built with ❤️ by KDroiders</code>
     </td>
   </tr>
 </table>
@@ -169,12 +169,23 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Android-Community-MUST&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Org Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Android-Community-MUST&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
+<a href="https://github.com/Android-Community-MUST/kotlin-hustlehub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Android-Community-MUST&repo=kotlin-hustlehub&theme=radical&hide_border=true" alt="Kotlin HustleHub" />
+</a>
+&nbsp;
+<a href="https://github.com/Android-Community-MUST/fixit-kotlin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Android-Community-MUST&repo=fixit-kotlin&theme=radical&hide_border=true" alt="FixIt Kotlin" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Community-MUST&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+<a href="https://github.com/Android-Community-MUST/navigation2-navigation3-kotlin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Android-Community-MUST&repo=navigation2-navigation3-kotlin&theme=radical&hide_border=true" alt="Navigation 2 vs 3" />
+</a>
+&nbsp;
+<a href="https://github.com/Android-Community-MUST/build-your-own-x">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Android-Community-MUST&repo=build-your-own-x&theme=radical&hide_border=true" alt="Build Your Own X" />
+</a>
 
 </div>
 
@@ -202,7 +213,7 @@ Got questions, want to partner for a hackathon, or join our next campus hacknigh
 [![Discord](https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/)
-[![Email](https://img.shields.io/badge/Email%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:android.community.must@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:android.community.kotlin.hustlehub@gmail.com)
 
 <br/>
 
